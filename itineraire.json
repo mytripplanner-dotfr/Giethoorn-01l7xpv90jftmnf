@@ -1,0 +1,112 @@
+{
+  "pays": "Pays-Bas",
+  "drapeau": "🇳🇱",
+  "symbole": "🌷",
+  "titre": "Giethoorn, la Venise Verte des Pays-Bas",
+  "budget_total": "400€",
+  "duree": "1 jour",
+  "temps_vol": "3h 15m depuis Paris avec escale (train/bus)",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛶",
+      "titre": "Immersion dans la Sérénité de Giethoorn",
+      "legende": "Giethoorn, surnommée la \"Venise des Pays-Bas\", est un village sans routes, où les maisons sont accessibles uniquement par bateau ou à pied. Ses canaux pittoresques, ses ponts en bois et ses fermes au toit de chaume créent une atmosphère unique et paisible. Préparez-vous à une journée de découverte au fil de l'eau, loin du tumulte urbain.",
+      "lieu": "Giethoorn",
+      "activites": [
+        "🛶 <strong>Location de bateau et navigation</strong>: Dès votre arrivée, louez un \"punters\" (bateau à fond plat) ou un bateau électrique pour naviguer sur les canaux. C'est la meilleure façon d'apprécier la tranquillité et la beauté de Giethoorn, en découvrant ses recoins cachés.",
+        "🚶‍♂️ <strong>Exploration du village à pied</strong>: Accostez et promenez-vous sur les sentiers étroits et les ponts en bois qui relient les îlots. Admirez les charmantes fermes traditionnelles aux toits de chaume et les jardins fleuris, imprégnant l'ambiance bucolique.",
+        "🏛️ <strong>Visite du musée \"Het Olde Maat Uus\"</strong>: Découvrez l'histoire et la culture de Giethoorn en visitant cette ancienne ferme transformée en musée. Vous y apprendrez comment les habitants vivaient et travaillaient dans ce village unique, au fil des siècles."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Giethoorn est très populaire, surtout en haute saison. Arrivez tôt le matin pour profiter du calme et éviter la foule sur les canaux."
+        },
+        {
+          "symbole": "🛶",
+          "titre": "Conseil transport",
+          "texte": "La location d'un bateau électrique est très simple et ne nécessite pas de permis. C'est l'option la plus populaire et la plus agréable pour explorer les canaux."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Pause gourmande",
+          "texte": "De nombreux restaurants et cafés bordent les canaux, proposant des spécialités locales et des vues imprenables. Goûtez aux \"poffertjes\" (mini-crêpes)!"
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "120€/pers (Vol A/R Paris-Amsterdam Schiphol en classe économique).",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "60€/pers (Train A/R Amsterdam-Steenwijk, bus A/R Steenwijk-Giethoorn et location de bateau).",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "70€/pers (Petit-déjeuner, déjeuner et dîner dans des établissements de gamme moyenne).",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "100€/pers (1 nuit en hôtel 3 étoiles ou équivalent à proximité de Giethoorn).",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "45€/pers (Location de bateau et entrée au musée).",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mai à septembre.",
+      "symbole": "🌷"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Giethoorn, surnommée la \"Venise Verte\", compte environ 2 600 habitants. C'est un village paisible où la vie s'organise principalement autour de l'eau.",
+      "symbole": "👥"
+    },
+    {
+      "titre": "Les Pays-Bas sont réputés pour leurs paysages plats, leurs moulins à vent, leurs champs de tulipes et leur culture du vélo. Le pays est très bien organisé pour le tourisme.",
+      "symbole": "🇳🇱"
+    },
+    {
+      "titre": "Giethoorn est unique car elle ne possède pas de routes principales, seulement des canaux. Les déplacements se font en bateau, à vélo ou à pied sur des sentiers étroits.",
+      "symbole": "💡"
+    },
+    {
+      "titre": "Le néerlandais est la langue officielle, mais l'anglais est très largement parlé, surtout dans les zones touristiques et par les jeunes.",
+      "symbole": "🗣️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Pays-Bas",
+      "url": "https://www.holland.com/fr/tourisme.htm",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires des transports en commun",
+      "titre": "9292 (Transports Pays-Bas)",
+      "url": "https://9292.nl/en",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Prévisions météo",
+      "titre": "KNMI (Météo Pays-Bas)",
+      "url": "https://www.knmi.nl/nederland-nu/weer/actueel-weer",
+      "symbole": "🌤️"
+    }
+  ]
+}
